@@ -358,7 +358,7 @@ a:hover {
 .section-title-s1 {
   font-size: calc(3rem + 3vw);
   font-weight: 400;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   line-height: 1.1;
 }
 
@@ -392,7 +392,7 @@ a:hover {
 .section-title-s4 {
   font-size: calc(2rem + 3vw);
   font-weight: 400;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   line-height: 1.2;
   letter-spacing: -0.025em;
 }
